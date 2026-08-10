@@ -1,3 +1,5 @@
+
+
 # 🚀 CC CLAUDE.md Flow - Autonomous AI Profile System
 
 > **Transform Claude Code from a simple assistant into a team of 5 specialized AI experts working autonomously on your projects.**
@@ -130,6 +132,13 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👥 Contributors
+
+We welcome all contributions! As outlined in our [Contributing Guide](CONTRIBUTING.md), contributors will be recognized here with:
+- GitHub handle
+- Contribution type (code, docs, ideas, etc.)
+- Number of contributions
 
 ## 🌟 Philosophy
 
